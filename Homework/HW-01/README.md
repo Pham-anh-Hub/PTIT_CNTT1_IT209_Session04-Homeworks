@@ -12,11 +12,13 @@ git config --local user.email
 git config --local user.name
 ```
 
-### 3. Kiểm tra & xem lịch sử commit (edited):
+### 3. Kiểm tra & xem lịch sử commit (edited for feature-update):
 ```bash
 git log --oneline
 ```
+
 ### 4. Chuyển đổi giữa các nhánh
 ```bash
 git checkout <ten_nhanh>
 ```
+
