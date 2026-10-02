@@ -12,7 +12,12 @@ git config --local user.email
 git config --local user.name
 ```
 
-### 3. Kiểm tra & xem lịch sử commit:
+### 3. Kiểm tra & xem lịch sử commit (edited):
 ```bash
 git log --oneline
+```
+
+
+```
+* Bổ sung & chỉnh sửa nội dung tạo conflict
 ```
