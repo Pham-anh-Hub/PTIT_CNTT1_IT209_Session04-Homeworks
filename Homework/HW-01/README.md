@@ -16,8 +16,7 @@ git config --local user.name
 ```bash
 git log --oneline
 ```
-
-
-```
-* Bổ sung & chỉnh sửa nội dung tạo conflict
+### 4. Chuyển đổi giữa các nhánh
+```bash
+git checkout <ten_nhanh>
 ```
